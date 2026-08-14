@@ -1,5 +1,5 @@
 # analysis
-For these 97 community colleges which supported at least 1 person to attend at least one conference, potential is a function of department size, ranging from 3 to 60 people per department.  Less than 30% of the variability in attendance effort is explained by the driving distance between the conference and the college.
+For these 97 community colleges which supported at least one person to attend at least one conference, potential is a function of department size, ranging from 3 to 60 people per department.  Less than 30% of the variability in attendance effort is explained by the driving distance between the conference and the college.
 ![a scatterplot with a negative trend and r squared of 0.29](./images/excel-viz.png)
 
 The plots were based on these summary statistics.
